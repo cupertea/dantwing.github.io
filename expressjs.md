@@ -9,3 +9,7 @@ cd nodefolder
 npm install #install packages in package.json
 npm start
 `````
+
+
+http://localhost:3000
+

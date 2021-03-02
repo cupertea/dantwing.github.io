@@ -9,6 +9,15 @@ npm start
 
 ```
 
+
+setting proxy for http://localhost:5000 (node express server port 5000) 
+edit ./package.json add
+```
+"proxy": "http://localhost:5000"
+```
+
+
+
 ```markdown
 Syntax highlighted code block
 

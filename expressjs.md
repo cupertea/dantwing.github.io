@@ -18,7 +18,7 @@ cd ./www
 vi www
 `````
 
-`````
+
   7 var app = require('../**server**');
   8 var debug = require('debug')('nodefolder:server');
   9 var http = require('http');
@@ -27,4 +27,4 @@ vi www
  16 app.set('port', port);
 
 
-`````
+

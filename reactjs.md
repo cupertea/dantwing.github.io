@@ -3,6 +3,10 @@ Hello React
 
 ```markdown
 brew install npm
+npx create-react-app hello
+cd hello
+npm start
+
 ```
 
 ```markdown

@@ -3,6 +3,7 @@ Hello React
 
 ```markdown
 brew install npm
+brew install yarn
 npx create-react-app hello
 cd hello
 npm start
